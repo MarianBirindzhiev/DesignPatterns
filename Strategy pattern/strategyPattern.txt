@@ -1,2 +1,11 @@
 Strategy pattern
 
+Formal definition: The strategy pattern defines 
+a family of algorithms, encapsulate's each one 
+and makes them interchangeable. Strategy let's 
+the algorithm vary independently from clients 
+that use it.
+
+ 
+
+
