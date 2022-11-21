@@ -1,0 +1,10 @@
+/*push vs poll
+
+Observerble and observers;
+Observerable is being observed by observers
+
+formal definition: The observer pattern defines one to many dependancies
+in between objects, so that when one object changes state, all of its
+dependencies are notified and updated automaticaly.
+
+example : chat room
