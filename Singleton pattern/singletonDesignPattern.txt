@@ -1,0 +1,9 @@
+
+formal definition: The singleton pattern ensures a class has only
+one instance and provides global point of access to it.
+
+/*shitty pattern -> global and single instance */
+
+testing is difficult because we always reach the same instance
+
+/*one man's constant is another man's variable*/
