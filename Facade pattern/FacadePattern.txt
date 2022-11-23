@@ -1,0 +1,7 @@
+/*bunch of classes that do one thing and one thing only*/
+
+client is using a facade to communicate with all the other classes
+
+facade simplify the use of all classes
+
+->law of least knowledge
